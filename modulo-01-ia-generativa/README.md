@@ -194,6 +194,7 @@ Gerar uma imagem utilizando IA generativa para complementar um post previamente 
 ![Imagem gerada para o post de alimentação saudável](assets/complementandoPostAlimentacao.png)
 
 
+
 **O que aprendi:**  
 - Como transformar texto em elementos visuais  
 - Como ajustar prompts para geração de imagens  
