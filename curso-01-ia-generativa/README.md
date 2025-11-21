@@ -189,6 +189,9 @@ Gerar uma imagem utilizando IA generativa para complementar um post previamente 
 - Outras IAs de geração de imagem abordadas no curso  
 
 **Resultado:**  
+### Imagem gerada para o post
+
+![Imagem gerada para o post de alimentação saudável](assets/complementandoPostAlimentacao.png)
 
 
 **O que aprendi:**  
