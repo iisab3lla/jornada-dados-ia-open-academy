@@ -1,6 +1,6 @@
 # ❀ IA: Explorando o Potencial da Inteligência Artificial Generativa 
 
-Este curso faz parte da minha jornada na **Open Academy da Alura — Dados com IA**, com foco no uso de **IA Generativa** para produtividade, criação de conteúdo e análise de informações.
+Este curso faz parte da minha jornada na **Open Academy + Alura — Dados com IA**, com foco no uso de **IA Generativa** para produtividade, criação de conteúdo e análise de informações.
 
 ---
 
