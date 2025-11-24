@@ -1,4 +1,4 @@
-# ❀ Funções com Excel: Operações Matemáticas e Filtros
+  # ❀ Funções com Excel: Operações Matemáticas e Filtros
 
 Esta unidade faz parte do **Módulo 3 — Excel e Dados** da minha jornada na  
 **Open Academy + Alura — Dados com IA**.
@@ -98,9 +98,9 @@ Criar uma validação de dados com lista suspensa para seleção de produtos.
 Calcular a média da quantidade em estoque de um produto específico usando `MÉDIASE()`.
 
 **Resultado:**  
-![Média 1](../assets/mediaProduto1.png)
-![Média 2](../assets/mediaProduto2.png)
-![Média 3](../assets/mediaProduto3.webp)
+![Média 1](../assets/mediaProdutos1.png)
+![Média 2](../assets/mediaProdutos2.png)
+![Média 3](../assets/mediaProdutos3.webp)
 
 
 **O que aprendi:**  
