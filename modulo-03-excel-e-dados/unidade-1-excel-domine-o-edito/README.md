@@ -37,7 +37,6 @@ Cadastrar produtos e seus respectivos tamanhos em uma planilha.
 Organização inicial de dados simulando um cadastro real para uma loja.
 
 **Resultado:**  
-
 ![adicionando dados](assets/dadosInformados.png)
 
 
@@ -53,7 +52,7 @@ Organização inicial de dados simulando um cadastro real para uma loja.
 Formatar a coluna “Preço Unitário” com formatação monetária.
 
 **Resultado:**  
-![adicionando dados](assets/formatarEmMoeda.png)
+![formatando valores em moeda](assets/formatarEmMoeda.png)
 
 **O que aprendi:**  
 - Aplicação de formatação financeira  
@@ -67,7 +66,7 @@ Formatar a coluna “Preço Unitário” com formatação monetária.
 Criar uma linha de totais para somar os principais valores da planilha.
 
 **Resultado:**  
-👉 *Adicione aqui o resultado final*
+![criando a linha de total](assets/linhaDeTotais.png)
 
 **O que aprendi:**  
 - Uso de funções básicas de soma  
@@ -75,7 +74,7 @@ Criar uma linha de totais para somar os principais valores da planilha.
 
 ---
 
-### ✅ 4. Ajustando o valor de desconto (#REF!)
+### ✿ 4. Ajustando o valor de desconto (#REF!)
 
 **Objetivo:**  
 Corrigir erros do tipo **#REF!** gerados após exclusão de células referenciadas.
@@ -88,7 +87,7 @@ A exclusão de células causou erro nas fórmulas relacionadas ao cálculo de de
 - Correção das referências  
 
 **Resultado:**  
-👉 *Adicione print do erro e print após correção*
+![ajustando o valor de desconto](assets/ajustandoOValor.png)
 
 **O que aprendi:**  
 - Como ocorrem erros #REF!  
@@ -96,7 +95,7 @@ A exclusão de células causou erro nas fórmulas relacionadas ao cálculo de de
 
 ---
 
-### ✅ 5. Alterar tipo de gráfico
+### ✿ 5. Alterar tipo de gráfico
 
 **Objetivo:**  
 Modificar um gráfico de "Pizza 3D" para "Barras 3D Agrupadas".
@@ -106,7 +105,8 @@ Modificar um gráfico de "Pizza 3D" para "Barras 3D Agrupadas".
 - Ajuste da visualização conforme o tipo de dado  
 
 **Resultado:**  
-👉 *Adicione o antes/depois do gráfico*
+![alterando o gráfico Pizza](assets/alterandoTipoDeGraficoPizza.png)
+![alterando o gráfico para Coluna](assets/alterandoTipoDeGraficoColuna.png)
 
 **O que aprendi:**  
 - Que tipo de gráfico usar em diferentes situações  
@@ -114,7 +114,7 @@ Modificar um gráfico de "Pizza 3D" para "Barras 3D Agrupadas".
 
 ---
 
-### ✅ 6. Desafio: Calcular desconto por produto
+### ✿ 6. Desafio: Calcular desconto por produto
 
 **Objetivo:**  
 Criar uma fórmula para calcular automaticamente o desconto de cada produto.
@@ -128,7 +128,7 @@ Utilizando a planilha da **Loja Meteora**.
 - Validação dos resultados  
 
 **Resultado:**  
-👉 *Adicione aqui a fórmula usada + print da planilha final*
+![calculando desconto por produto](assets/descontoPorProduto.png)
 
 **O que aprendi:**  
 - Uso prático de fórmulas  
@@ -137,7 +137,7 @@ Utilizando a planilha da **Loja Meteora**.
 
 ---
 
-## 💡 Principais Aprendizados do Curso
+## ❀ Principais Aprendizados do Curso
 
 - Excel é a base para quem trabalha com dados  
 - Fórmulas bem feitas evitam retrabalho  
@@ -146,7 +146,7 @@ Utilizando a planilha da **Loja Meteora**.
 
 ---
 
-## 🚀 Conclusão
+## ❀ Conclusão
 
 Este curso fortaleceu minha base em planilhas e me preparou para as próximas etapas do módulo, que aprofundam o uso de dados, análise e integração com IA.
 
