@@ -1,4 +1,4 @@
-# ❀ Engenharia de Prompt: criando prompts eficazes para IA Generativa
+# ❀ Engenharia de Prompt: criando prompts eficazes para IA Generativa 
 
 Este curso faz parte da minha jornada na **Open Academy da Alura — Dados com IA**, focado em entender como estruturar prompts de forma estratégica para obter respostas mais precisas e úteis de modelos de IA generativa.
 
