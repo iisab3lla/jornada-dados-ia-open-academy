@@ -37,7 +37,9 @@ Cadastrar produtos e seus respectivos tamanhos em uma planilha.
 Organização inicial de dados simulando um cadastro real para uma loja.
 
 **Resultado:**  
-👉 *Adicione aqui prints da sua planilha ou link do arquivo*
+
+![adicionando dados](assets/dadosInformados.png)
+
 
 **O que aprendi:**  
 - Estruturação básica de uma planilha  
