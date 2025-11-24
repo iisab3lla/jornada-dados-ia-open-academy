@@ -105,7 +105,7 @@ Modificar um gráfico de "Pizza 3D" para "Barras 3D Agrupadas".
 
 **Resultado:**  
 ![Gráfico de Pizza](../assets/alterandoTipoDeGraficoPizza.png)
-![Gráfico de Coluna](../assets/alterandoTipoDeGraficoColuna.webp)
+![Gráfico de Coluna](../assets/alterandoTipoDeGraficoColunas.webp)
 
 
 **O que aprendi:**  
