@@ -38,7 +38,7 @@ Classificar a tabela seguindo dois critérios:
 2. Preço unitário do maior para o menor  
 
 **Resultado:**  
-![Classificando dados de produtos](.../assets/classificandoDados.png)
+![Classificando dados de produtos](../assets/classificandoDados.png)
 
 **O que aprendi:**  
 - Classificação por múltiplos critérios  
@@ -52,7 +52,7 @@ Classificar a tabela seguindo dois critérios:
 Exibir apenas os produtos da categoria **Acessórios**.
 
 **Resultado:**  
-![Filtrando por categoria](.../assets/filtrandoPorCategoria.png)
+![Filtrando por categoria](../assets/filtrandoPorCategoria.png)
 
 **O que aprendi:**  
 - Uso eficiente de filtros  
@@ -66,7 +66,7 @@ Exibir apenas os produtos da categoria **Acessórios**.
 Contar quantos produtos pertencem à categoria **Vestuário** usando `CONT.SE()`.
 
 **Resultado:**  
-![Contagem condicional](.../assets/contagemCondicional.png)
+![Contagem condicional](../assets/contagemCondicional.png)
 
 
 **O que aprendi:**  
@@ -81,9 +81,9 @@ Contar quantos produtos pertencem à categoria **Vestuário** usando `CONT.SE()`
 Criar uma validação de dados com lista suspensa para seleção de produtos.
 
 **Resultado:**  
-![Lista de produtos](.../assets/criandoListaDeProdutos.png)
+![Lista de produtos](../assets/criandoListaDeProdutos.png)
 
-![Erro da validação](.../assets/validacao.png)
+![Erro da validação](../assets/validacao.png)
 
 
 **O que aprendi:**  
@@ -98,9 +98,9 @@ Criar uma validação de dados com lista suspensa para seleção de produtos.
 Calcular a média da quantidade em estoque de um produto específico usando `MÉDIASE()`.
 
 **Resultado:**  
-![Média 1](.../assets/mediaProduto1.png)
-![Média 2](.../assets/mediaProduto2.png)
-![Média 3](.../assets/mediaProduto3.webp)
+![Média 1](../assets/mediaProduto1.png)
+![Média 2](../assets/mediaProduto2.png)
+![Média 3](../assets/mediaProduto3.webp)
 
 
 **O que aprendi:**  
