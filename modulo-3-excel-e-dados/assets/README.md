@@ -1,1 +1,1 @@
-Pasta assets para armazenar imagens e arquivos do curso de Excel no Módulo 3.
+Pasta para armazenar imagens e recursos do Módulo 3.
