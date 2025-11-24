@@ -1,6 +1,6 @@
 # ❀ Excel: Domine o Editor de Planilhas
 
-Este curso faz parte do **Módulo 3 da Open Academy — Dados com IA (Alura)**.  
+Este curso faz parte do **Módulo 3 da Open Academy + Alura — Dados com IA**.  
 Aqui desenvolvi as bases do uso do Excel para organização, análise e visualização de dados.
 
 ---
