@@ -53,7 +53,7 @@ Organização inicial de dados simulando um cadastro real para uma loja.
 Formatar a coluna “Preço Unitário” com formatação monetária.
 
 **Resultado:**  
-👉 *Adicione aqui o print ou descrição do resultado*
+![adicionando dados](assets/formatarEmMoeda.png)
 
 **O que aprendi:**  
 - Aplicação de formatação financeira  
@@ -61,7 +61,7 @@ Formatar a coluna “Preço Unitário” com formatação monetária.
 
 ---
 
-### ✅ 3. Criação de linha de totais
+### ✿ 3. Criação de linha de totais
 
 **Objetivo:**  
 Criar uma linha de totais para somar os principais valores da planilha.
