@@ -37,7 +37,7 @@ Cadastrar produtos e seus respectivos tamanhos em uma planilha.
 Organização inicial de dados simulando um cadastro real para uma loja.
 
 **Resultado:**  
-![Adicionando dados](assets/dadosInformados.png)
+![Adicionando dados](../assets/dadosInformados.png)
 
 **O que aprendi:**  
 - Estruturação básica de uma planilha  
@@ -51,7 +51,7 @@ Organização inicial de dados simulando um cadastro real para uma loja.
 Formatar a coluna “Preço Unitário” com formatação monetária.
 
 **Resultado:**  
-![Formatando dados para moeda](assets/formatarEmMoeda.png)
+![Formatando dados para moeda](../assets/formatarEmMoeda.png)
 
 **O que aprendi:**  
 - Aplicação de formatação financeira  
@@ -65,7 +65,7 @@ Formatar a coluna “Preço Unitário” com formatação monetária.
 Criar uma linha de totais para somar os principais valores da planilha.
 
 **Resultado:**  
-![Linha de totais](assets/linhaDeTotais.png)
+![Linha de totais](../assets/linhaDeTotais.png)
 
 **O que aprendi:**  
 - Uso de funções básicas de soma  
@@ -86,7 +86,7 @@ A exclusão de células causou erro nas fórmulas relacionadas ao cálculo de de
 - Correção das referências  
 
 **Resultado:**  
-![Ajustando o valor de desconto](assets/ajustandoOValor.png)
+![Ajustando o valor de desconto](../assets/ajustandoOValor.png)
 
 **O que aprendi:**  
 - Como ocorrem erros #REF!  
@@ -104,8 +104,8 @@ Modificar um gráfico de "Pizza 3D" para "Barras 3D Agrupadas".
 - Ajuste da visualização conforme o tipo de dado  
 
 **Resultado:**  
-![Gráfico de Pizza](assets/alterandoTipoDeGraficoPizza.png)
-![Gráfico de Coluna](assets/alterandoTipoDeGraficoColuna.png)
+![Gráfico de Pizza](../assets/alterandoTipoDeGraficoPizza.png)
+![Gráfico de Coluna](../assets/alterandoTipoDeGraficoColuna.png)
 
 
 **O que aprendi:**  
@@ -128,7 +128,7 @@ Utilizando a planilha da **Loja Meteora**.
 - Validação dos resultados  
 
 **Resultado:**  
-![Desconto por produto](assets/descontoPorProduto.png)
+![Desconto por produto](../assets/descontoPorProduto.png)
 
 **O que aprendi:**  
 - Uso prático de fórmulas  
