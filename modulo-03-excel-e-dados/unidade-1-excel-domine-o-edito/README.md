@@ -47,7 +47,7 @@ Organização inicial de dados simulando um cadastro real para uma loja.
 
 ---
 
-### ✅ 2. Formatar valores como moeda
+### ✿ 2. Formatar valores como moeda
 
 **Objetivo:**  
 Formatar a coluna “Preço Unitário” com formatação monetária.
