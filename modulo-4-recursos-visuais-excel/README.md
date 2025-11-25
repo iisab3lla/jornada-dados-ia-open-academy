@@ -1,4 +1,4 @@
-❀ Recursos Visuais com Excel: Explorando Gráficos e Formatos
+# ❀ Recursos Visuais com Excel: Explorando Gráficos e Formatos
 
 Este curso faz parte da minha jornada na  
 **Santander Open Academy + Alura — Dados com IA**, com foco em visualização de dados, criação de dashboards e uso de recursos visuais no Excel para apoiar a tomada de decisão.
