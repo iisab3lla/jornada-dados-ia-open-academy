@@ -1,4 +1,4 @@
-# ❀ Excel: Aprendendo Lógica Booleana e Busca por Valores
+# ❀ Excel: Aprendendo Lógica Booleana e Busca por Valores 
 
 Este curso faz parte da minha jornada na  
 **Santander Open Academy + Alura — Dados com IA**, focado em lógica booleana, funções de busca e estruturação de respostas inteligentes no Excel.
