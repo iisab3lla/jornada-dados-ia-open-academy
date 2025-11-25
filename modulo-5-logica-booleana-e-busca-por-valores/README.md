@@ -175,19 +175,19 @@ Recriação de lógicas de busca e resposta usando funções clássicas do Excel
 
 **Resultado**
 
-`Fórmulas utilizadas: 
+**Fórmulas utilizadas:**
 
 Ache o preço do produto que tenha aproximadamente 20 quantidades
-    =PROCV(20,C3:D10,2,VERDADEIRO)
+    `=PROCV(20,C3:D10,2,VERDADEIRO)`
 
 Ache um produto com aproximadamente 35 quantidades
-    =ÍNDICE(B2:B9,CORRESP(35,C2:C9,1))
+    `=ÍNDICE(B2:B9,CORRESP(35,C2:C9,1))`
 
 Responda sim, se houver uma bermuda que custa 65,90
-    =SE(SOMARPRODUTO((B2:B9="Bermuda")*(D2:D9>70))>0,"SIM","NÃO")
+    `=SE(SOMARPRODUTO((B2:B9="Bermuda")*(D2:D9>70))>0,"SIM","NÃO")`
 
 Qual o produto mais caro da lista
-    =ÍNDICE(FILTRO(B3:B10, D3:D10 = MÁXIMO(D3:D10)),1)`
+    `=ÍNDICE(FILTRO(B3:B10, D3:D10 = MÁXIMO(D3:D10)),1)`
     
 ![Desafio: Respondendo perguntas sem funções "X"](assets/desafio.webp)
 
