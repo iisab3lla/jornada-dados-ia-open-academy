@@ -75,7 +75,7 @@ Cálculo dos seguintes indicadores:
 - Total de vendas  
 
 **Resultado**
-![Calculando os indicadores](assets/calculandoOSIndicadores.webp)
+![Calculando os indicadores](assets/calculandoOsIndicadores.webp)
 
 **O que aprendi:**  
 - Como transformar dados em informações estratégicas  
