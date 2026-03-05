@@ -1,4 +1,4 @@
-❀ Power BI Desktop: realizando ETL no Power Query 
+❀ Power BI Desktop: realizando ETL no Power Query  
 
 Este curso faz parte da minha jornada na  
 **Santander Open Academy em parceria com a Alura — Dados com IA**, com foco no processo de **ETL (Extração, Transformação e Carga)** utilizando o **Power Query no Power BI**, permitindo preparar dados de forma estruturada antes da construção de análises e dashboards.
