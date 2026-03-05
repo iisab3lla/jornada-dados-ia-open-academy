@@ -54,7 +54,7 @@ Nesta etapa foi realizada a importação e exploração inicial dos dados dentro
 **O que foi feito:**  
 Importação do conjunto de dados e exploração das tabelas disponíveis, preparando o modelo de dados para criação dos visuais.
 
-![Importação dos dados](assets/importacaoDadosPowerBI.webp)
+![Importação dos dados](assets/facaComoEuFiz.webp)
 
 **O que aprendi:**  
 - Como importar dados para o Power BI  
@@ -78,7 +78,7 @@ Valor Médio por Produto Vendido = DIVIDE(SUM(Vendas[Faturamento]), SUM(Vendas[Q
 **O que foi feito:**  
 Criação de uma medida para calcular automaticamente o valor médio por produto vendido dentro do modelo de dados.
 
-![Medida DAX](assets/medidaDAX.webp)
+![Medida DAX](assets/utilizandoDAX.webp)
 
 **O que aprendi:**  
 - Como criar **medidas utilizando DAX**  
@@ -121,7 +121,7 @@ Nesta etapa foi desenvolvido um dashboard completo utilizando gráficos, indicad
 **O que foi feito:**  
 Construção de um dashboard analítico contendo indicadores principais, gráficos de desempenho e filtros interativos.
 
-![Dashboard estilizado](assets/dashboardPowerBI.webp)
+![Dashboard estilizado](assets/dashboardEstilizacao.webp)
 
 **O que aprendi:**  
 - Como estruturar dashboards no Power BI  
@@ -141,7 +141,7 @@ Nesta etapa o dashboard foi adaptado para dispositivos móveis, reorganizando os
 **O que foi feito:**  
 Criação de uma versão otimizada do dashboard para visualização em smartphones.
 
-![Layout móvel](assets/layoutMobile.webp)
+![Layout móvel](assets/layoutMovel.webp)
 
 **O que aprendi:**  
 - Como adaptar dashboards para dispositivos móveis  
