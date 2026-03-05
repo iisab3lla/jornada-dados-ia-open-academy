@@ -1,4 +1,4 @@
-❀ Excel: Utilizando Tabelas Dinâmicas e Gráficos Dinâmicos 
+❀ Excel: Utilizando Tabelas Dinâmicas e Gráficos Dinâmicos  
 
 Este curso faz parte da minha jornada na  
 **Santander Open Academy em parceria com a Alura — Dados com IA**, com foco em análise exploratória de dados utilizando Tabelas Dinâmicas, gráficos dinâmicos e ferramentas avançadas do Excel para construção de dashboards e apoio à tomada de decisão.
