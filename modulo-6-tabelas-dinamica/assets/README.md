@@ -1,1 +1,1 @@
-Pasta para armazenar imagens e recursos do Módulo 6.
+Pasta para armazenar imagens e recursos do Módulo 6. 
