@@ -1,4 +1,4 @@
-❀ Power BI Desktop: construindo meu primeiro dashboard
+❀ Power BI Desktop: construindo meu primeiro dashboard 
 
 Este curso faz parte da minha jornada na  
 **Santander Open Academy em parceria com a Alura — Dados com IA**, com foco na introdução ao **Business Intelligence (BI)** e no uso do **Power BI Desktop** para transformar dados em dashboards interativos e análises visuais estratégicas.
